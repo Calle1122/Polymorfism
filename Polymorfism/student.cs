@@ -6,6 +6,7 @@ namespace Polymorfism
     {
         public override void Talk()
         {
+            Console.WriteLine("\nStudent says:");
             Console.WriteLine("Noooooo! I don't want to.");
         }
     }
